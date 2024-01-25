@@ -6,7 +6,5 @@ In this project we define a SER system as a collection of methodologies that pro
 Such a system can find use in a wide variety of application areas like interactive voice based-assistant or caller-agent conversation analysis. 
 In this study we attempt to detect underlying emotions in recorded speech by analysing the acoustic features of the audio data of recordings.
 
-# PFA the project paper:
-[SER_Project Paper](https://github.com/AbhishekG-1plus/SpeechEmotionRecognition/blob/779f7f8cd4babab64f258714afb5e1a7869099a6/SpeechEmotionReecognition_Paper.pdf)
 
 
